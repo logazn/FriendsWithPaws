@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN-IA3NF3L6E6B</Machine>
+    <WindowsUser>logan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>BEB79D2B0845742E0F16A46D07F133DE8B7A7DFD675C0A48F83664AF92880230</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>329a3ea4-c9b0-4a60-b8c9-2d471390c865_1.0.0.0_neutral__tcggdz8jry8vc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>329a3ea4-c9b0-4a60-b8c9-2d471390c865_tcggdz8jry8vc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>329a3ea4-c9b0-4a60-b8c9-2d471390c865</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=logan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-09-03T00:14:49.593</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\bin\Debug\FriendsWithPaws.exe">
+      <PackagePath>FriendsWithPaws.exe</PackagePath>
+      <Modified>2018-09-03T00:14:48.574</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\bin\Debug\FriendsWithPaws.pdb">
+      <PackagePath>FriendsWithPaws.pdb</PackagePath>
+      <Modified>2018-09-03T00:14:48.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Desktop\vp2_work\Callisto.1.2.4\lib\winrt45\Callisto.dll">
+      <PackagePath>Callisto.dll</PackagePath>
+      <Modified>2018-08-06T23:33:06.958</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-27T23:16:32.014</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-27T23:16:32.046</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-27T23:16:32.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-08-27T23:16:32.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2011-12-12T10:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2011-12-12T10:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2011-12-12T10:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Assets\wideLogo.PNG">
+      <PackagePath>Assets\wideLogo.PNG</PackagePath>
+      <Modified>2018-08-27T23:16:32.077</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Data\Dogs.txt">
+      <PackagePath>Data\Dogs.txt</PackagePath>
+      <Modified>2018-08-20T09:31:06.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\dalmatian.jpg">
+      <PackagePath>Images\Large Breeds\dalmatian.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:22.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\dalmatian_1.jpg">
+      <PackagePath>Images\Large Breeds\dalmatian_1.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:22.426</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\dalmatian_2.jpg">
+      <PackagePath>Images\Large Breeds\dalmatian_2.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:22.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\dobermanPinscher.jpg">
+      <PackagePath>Images\Large Breeds\dobermanPinscher.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:22.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\dobermanPinscher_1.jpg">
+      <PackagePath>Images\Large Breeds\dobermanPinscher_1.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:22.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\dobermanPinscher_2.jpg">
+      <PackagePath>Images\Large Breeds\dobermanPinscher_2.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:22.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\germanShepherd.jpg">
+      <PackagePath>Images\Large Breeds\germanShepherd.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:22.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\germanShepherd_1.jpg">
+      <PackagePath>Images\Large Breeds\germanShepherd_1.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:22.442</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\germanShepherd_2.jpg">
+      <PackagePath>Images\Large Breeds\germanShepherd_2.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:22.458</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\goldenRetriever.jpg">
+      <PackagePath>Images\Large Breeds\goldenRetriever.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:22.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\goldenRetriever_1.jpg">
+      <PackagePath>Images\Large Breeds\goldenRetriever_1.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:22.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\goldenRetriever_2.jpg">
+      <PackagePath>Images\Large Breeds\goldenRetriever_2.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:22.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\greatDane.jpg">
+      <PackagePath>Images\Large Breeds\greatDane.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:22.473</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\greatDane_1.jpg">
+      <PackagePath>Images\Large Breeds\greatDane_1.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:22.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\greatDane_2.jpg">
+      <PackagePath>Images\Large Breeds\greatDane_2.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:22.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\irishSetter.jpg">
+      <PackagePath>Images\Large Breeds\irishSetter.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:22.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\irishSetter_1.jpg">
+      <PackagePath>Images\Large Breeds\irishSetter_1.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:22.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Large Breeds\irishSetter_2.jpg">
+      <PackagePath>Images\Large Breeds\irishSetter_2.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:22.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\australianShepherd.jpg">
+      <PackagePath>Images\Medium Breeds\australianShepherd.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:27.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\australianShepherd_1.jpg">
+      <PackagePath>Images\Medium Breeds\australianShepherd_1.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:27.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\australianShepherd_2.jpg">
+      <PackagePath>Images\Medium Breeds\australianShepherd_2.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:27.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\bassetHound.jpg">
+      <PackagePath>Images\Medium Breeds\bassetHound.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:27.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\bassetHound_1.jpg">
+      <PackagePath>Images\Medium Breeds\bassetHound_1.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:27.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\bassetHound_2.jpg">
+      <PackagePath>Images\Medium Breeds\bassetHound_2.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:27.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\borderCollie.jpg">
+      <PackagePath>Images\Medium Breeds\borderCollie.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:27.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\borderCollie_1.jpg">
+      <PackagePath>Images\Medium Breeds\borderCollie_1.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:27.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\borderCollie_2.jpg">
+      <PackagePath>Images\Medium Breeds\borderCollie_2.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:27.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\bulldog.jpg">
+      <PackagePath>Images\Medium Breeds\bulldog.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:27.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\bulldog_1.jpg">
+      <PackagePath>Images\Medium Breeds\bulldog_1.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:27.808</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\bulldog_2.jpg">
+      <PackagePath>Images\Medium Breeds\bulldog_2.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:27.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\sharPei.jpg">
+      <PackagePath>Images\Medium Breeds\sharPei.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:27.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\sharPei_1.jpg">
+      <PackagePath>Images\Medium Breeds\sharPei_1.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:27.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\sharPei_2.jpg">
+      <PackagePath>Images\Medium Breeds\sharPei_2.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:27.824</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\springerSpaniel.jpg">
+      <PackagePath>Images\Medium Breeds\springerSpaniel.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:27.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\springerSpaniel_1.jpg">
+      <PackagePath>Images\Medium Breeds\springerSpaniel_1.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:27.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Medium Breeds\springerSpaniel_2.jpg">
+      <PackagePath>Images\Medium Breeds\springerSpaniel_2.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:27.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\beagle.jpg">
+      <PackagePath>Images\Small Breeds\beagle.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:32.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\beagle_1.jpg">
+      <PackagePath>Images\Small Breeds\beagle_1.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:32.075</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\beagle_2.jpg">
+      <PackagePath>Images\Small Breeds\beagle_2.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:32.075</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\dachshund.jpg">
+      <PackagePath>Images\Small Breeds\dachshund.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:32.075</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\dachshund_1.jpg">
+      <PackagePath>Images\Small Breeds\dachshund_1.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:32.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\dachshund_2.jpg">
+      <PackagePath>Images\Small Breeds\dachshund_2.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:32.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\jackRussellTerrier.jpg">
+      <PackagePath>Images\Small Breeds\jackRussellTerrier.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:32.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\jackRussellTerrier_1.jpg">
+      <PackagePath>Images\Small Breeds\jackRussellTerrier_1.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:32.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\jackRussellTerrier_2.jpg">
+      <PackagePath>Images\Small Breeds\jackRussellTerrier_2.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:32.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\pug.jpg">
+      <PackagePath>Images\Small Breeds\pug.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:32.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\pug_1.jpg">
+      <PackagePath>Images\Small Breeds\pug_1.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:32.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\pug_2.jpg">
+      <PackagePath>Images\Small Breeds\pug_2.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:32.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\westHighlandWhiteTerrier.jpg">
+      <PackagePath>Images\Small Breeds\westHighlandWhiteTerrier.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:32.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\westHighlandWhiteTerrier_1.jpg">
+      <PackagePath>Images\Small Breeds\westHighlandWhiteTerrier_1.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:32.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\westHighlandWhiteTerrier_2.jpg">
+      <PackagePath>Images\Small Breeds\westHighlandWhiteTerrier_2.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:32.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\yorkshireTerrier.jpg">
+      <PackagePath>Images\Small Breeds\yorkshireTerrier.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:32.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\yorkshireTerrier_1.jpg">
+      <PackagePath>Images\Small Breeds\yorkshireTerrier_1.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:32.122</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\Images\Small Breeds\yorkshireTerrier_2.jpg">
+      <PackagePath>Images\Small Breeds\yorkshireTerrier_2.jpg</PackagePath>
+      <Modified>2018-08-20T09:30:32.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2018-08-20T09:31:47.386</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\bin\Debug\SearchResultsPage.xaml">
+      <PackagePath>SearchResultsPage.xaml</PackagePath>
+      <Modified>2018-08-29T22:39:08.803</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2018-09-02T08:48:44.920</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\bin\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+      <Modified>2018-08-20T09:22:53.079</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\bin\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+      <Modified>2018-08-31T22:19:25.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\bin\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+      <Modified>2018-09-03T00:12:17.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Desktop\vp2_work\Callisto.1.2.4\lib\winrt45\Callisto\themes\Generic.xaml">
+      <PackagePath>Callisto\themes\Generic.xaml</PackagePath>
+      <Modified>2018-08-06T23:33:07.005</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\logan\Documents\Visual Studio 2012\Projects\FriendsWithPaws\FriendsWithPaws\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2018-09-03T00:14:49.241</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
